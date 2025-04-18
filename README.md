@@ -22,7 +22,7 @@ This is a simple bot that searches for products on a given sqlite database and r
 
 ## Usage
 
-1.  Run the bot backedn:
+1.  Run the bot backend:
 
     ```bash
     python main.py
