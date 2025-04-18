@@ -1,0 +1,10 @@
+fastapi
+python-dotenv
+langchain
+langchain_core
+langchain-community
+langchain-groq
+uvicorn
+langchain-google-genai
+mcp["cli"]
+langchain-openai
