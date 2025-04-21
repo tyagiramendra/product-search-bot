@@ -1,4 +1,4 @@
-# Product Search Bot
+# Product Search Bot- Custom MCP Server and Client
 
 This is a simple bot that searches for products on a given sqlite database and returns the results. This bot usages the Model Context Protocol to communicate with database.
 
